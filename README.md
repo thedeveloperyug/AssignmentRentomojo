@@ -37,13 +37,13 @@ psql -d comments  #enter in databse
 
 ## Schema: Prisma
 
-npx prisma migrate dev #for latest changes in db
+npx prisma migrate dev #for latest changes in Database </br>
 npx prisma db seed # filling dummy data
 
 ## Backend Technology: Node Js
 ## install 
 dependencies - npm i fastify dotenv @fastify/cookie @fastify/cors @fastify/sensible </br>
--------------- npm i axios
+             - npm i axios
 
 ## RUN Server 
 npm run devStart
